@@ -1,5 +1,7 @@
 # MyFirstApp
 
+Training: https://www.udemy.com/the-complete-guide-to-angular-2/learn/v4/overview
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.2.
 
 ## Development server
